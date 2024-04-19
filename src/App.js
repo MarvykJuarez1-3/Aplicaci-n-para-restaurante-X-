@@ -8,8 +8,8 @@ function App() {
   <section class="menu-seccion"> 
     <nav id="menu-simple" class="menu-simple menu">
       <ul>
-        <li><a href="#">Principal</a></li>
-        <li><a href="#">Cursos</a></li>
+        <li><a href="">Principal</a></li>
+        <li><a href="src/inicio-sesion">Iniciar sesión</a></li>
         <li><a href="#">Tutoriales</a></li>
         <li><a href="#">Blog</a></li>
         <li><a href="#">Noticias</a></li>
