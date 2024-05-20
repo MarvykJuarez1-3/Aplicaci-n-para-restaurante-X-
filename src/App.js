@@ -8,13 +8,10 @@ function App() {
   <section class="menu-seccion"> 
     <nav id="menu-simple" class="menu-simple menu">
       <ul>
-        <li><a href="">Principal</a></li>
-        <li><a href="src/inicio-sesion">Iniciar sesión</a></li>
-        <li><a href="#">Tutoriales</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Noticias</a></li>
-        <li><a href="#">Acerca de</a></li>
-        <li><a href="#">Contacto</a></li>
+        <li><a href="https://drive.google.com/drive/folders/15p2Mnyir-TIQUuWANp398swh8q_l_-RZ?usp=share_link">Actividades realizadas en el curso</a></li>
+        <li><a href="https://github.com/MarvykJuarez1-3/Aplicaci-n-para-restaurante-X-">Sistema implementado</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1yafOybhjkp7J_PhbWo0RgJzXaj1N7Bxn?usp=share_link">Código fuente</a></li>
+        <li><a href="https://drive.google.com/file/d/1Oh7jMdASlrQYfTHeG_jDTasrLQR73I2R/view?usp=share_link">Reporte de las modificaciones realizadas </a></li>
       </ul>
     </nav>
   </section>
